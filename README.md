@@ -19,7 +19,7 @@ The [GitHub Pages](https://pages.github.com/) approach is a little different. It
 
 ## Where is the content?
 
-The **content** of the homepage, for example, is in [index.md]().
+The **content** of the homepage, for example, is in [index.md](https://github.com/goddesswithin/website/blob/main/index.md).
 
 When GitHub goes to publish a new version of the site, it uses a program called [Jekyll](https://jekyllrb.com/) to generate the site. Jekyll allows you to separate a page's content from the layout and structure of the website, and write the content in different formats. The most common format you will see pages written in is [Markdown](https://daringfireball.net/projects/markdown/basics), which is much easier to read *and* learn than HTML.
 
