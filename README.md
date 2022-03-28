@@ -1,14 +1,14 @@
 # Goddess Within site
 
-This is a demonstration of the site hosted using [GitHub Pages](https://pages.github.com/).
+This is a demonstration of using [GitHub Pages](https://pages.github.com/) to host the Goddess Within site.
 
-It is a copy of http://goddesswithin.us, to show how a similar site could be controlled, and how it is different.
+It is a copy of http://goddesswithin.us, to show how a similar site could be maintained this way, and how it is different.
 
 ## WordPress vs GitHub Pages
 
-The original site was created with WordPress. WordPress provides a "WYSIWYG" (what you see is what you get) editor that abstract away the code, but they are harder to host. This means that it can be costly to host, which can lead to content being lost entirely.
+The original site was created with WordPress. It's a "WYSIWYG" (what you see is what you get) editor that makes it easy to write content without code. However, this makes it harder to host, which can lead to content being lost entirely.
 
-The [GitHub Pages](https://pages.github.com/) approach is a little different. It requires a bit more technical knowledge to maintain, but it comes with these benefits:
+The [GitHub Pages](https://pages.github.com/) approach is a little different. It requires a bit more technical knowledge to maintain the content, but it comes with these benefits:
 
 - GitHub Pages is free to host for public repositories. When setting up a website, hosting is usually the costliest piece.
 - The overall codebase is significantly less overwhelming then WordPress's and easier to maintain.
@@ -19,9 +19,9 @@ The [GitHub Pages](https://pages.github.com/) approach is a little different. It
 
 ## Where is the content?
 
-When GitHub goes to publish a new version of the site, it uses a program called [Jekyll](https://jekyllrb.com/) to generate the site. Jekyll allows you to separate a page's content from the layout and structure of the website, and write the content in different formats. The most common format you will see pages written in is [Markdown](https://daringfireball.net/projects/markdown/basics), which is much easier to read *and* learn than HTML.
+The **content** of the homepage, for example, is in [index.md]().
 
-In other words, if you want to change the content of the homepage, for example, you only need to change the text in [index.md]().
+When GitHub goes to publish a new version of the site, it uses a program called [Jekyll](https://jekyllrb.com/) to generate the site. Jekyll allows you to separate a page's content from the layout and structure of the website, and write the content in different formats. The most common format you will see pages written in is [Markdown](https://daringfireball.net/projects/markdown/basics), which is much easier to read *and* learn than HTML.
 
 If you want to create a new page, you can just create a new file ending in `.md` and start writing. You don't need to worry about including navigation headers, stylesheets, or other advanced website stuff, because Jekyll handles all of that for you.
 
