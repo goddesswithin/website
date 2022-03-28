@@ -31,7 +31,7 @@ Anyone with edit permission on this repository can make changes.
 
 However, anyone with a GitHub account can **request** to make changes, and discuss those requests. It is up to someone with edit permissions to review the changes, make sure they are acceptable, and merge them into the site.
 
-As an example, you can review #1.
+As an example, you can review [this example request](https://github.com/goddesswithin/website/pull/1).
 
 ## What *can't* GitHub Pages do?
 
