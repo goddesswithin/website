@@ -1,0 +1,13 @@
+# The links for the homepage. Can fit up to 3.
+
+- url: http://www.goddesswithin.us/shop/
+  title: Shop the Store
+  image: shop
+
+- url: http://priestessofthegoddess.com/
+  title: Spiritual Counseling
+  image: counseling
+  
+- url: http://localhost:4000/events
+  title: Events
+  image: community

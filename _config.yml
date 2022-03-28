@@ -1,0 +1,26 @@
+# This file controls the settings of the whole site.
+# Things you change here can affect the entire site.
+
+title: Goddess Within
+description: >- 
+  Celebrating the Female Divine
+
+# URL settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: /:categories/:title:output_ext
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+# Exclude some stuff from the actual website
+exclue:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - README.md

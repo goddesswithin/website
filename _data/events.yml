@@ -1,0 +1,21 @@
+# This page hosts the upcoming events.
+#
+# To add an event, copy the template below and remove ONLY the first # of each line
+#
+# *IMPORTANT*: The spacing must match all of the other events. If it does not match, GitHub won't 
+# be able to read this file and the site won't update until it is fixed.
+#
+
+events:
+- name: Goddess Singing Circle
+  date: 1st and 3rd Monday of each month
+  start: 6:00 PM
+  end: 8:30 PM
+  description: >
+    Open to all adult female women.
+    Doors open at 6:00, will lock at 6:30 pm
+    $20 to attend.
+
+    7012 Madison Ave, Suite E.  Urbandale Iowa 50322
+  link: http://www.goddesswithin.us/product/1169/
+  link_title: Pre-pay to attend the 9/18 circle and get $5 off by clicking here!

@@ -1,0 +1,5 @@
+{% for navlink in site.data.navlinks %}
+<a href="{{ navlink.url }}" title="{{ navlink.title }}">
+    <img style="align:none; max-width:150pt;" src="images/{{ navlink.image }}.jpeg" />
+</a>
+{% endfor %}
