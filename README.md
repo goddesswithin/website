@@ -21,9 +21,9 @@ The [GitHub Pages](https://pages.github.com/) approach is a little different. It
 
 GitHub stores code in "repositories". A repository is like a folder on your computer that is marked to contain files for a specific project. The repository contains all of the files needed to generate the website on any platform that can run code.
 
-The **content** of the homepage, for example, is in [index.md](https://github.com/goddesswithin/website/blob/main/index.md). `index.md` is written in a format called [Markdown](https://daringfireball.net/projects/markdown/basics), which is much easier to read *and* learn than HTML.
+The **content** of the homepage, for example, is in the file [index.md](https://github.com/goddesswithin/website/blob/main/index.md?plain=1). The `.md` at the end stands for [Markdown](https://daringfireball.net/projects/markdown/basics), which is much easier to read *and* learn than HTML.
 
-When GitHub goes to publish a nwe version of the site, it follows these steps:
+When GitHub goes to publish a new version of the site, it follows these steps:
 
 1. It launches a program called [Jekyll](https://jekyllrb.com/).
 2. Jekyll first loads all of the files that define the configuration, design, and structure of the site.
