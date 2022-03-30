@@ -27,6 +27,8 @@ When GitHub goes to publish a new version of the site, it uses a program called 
 
 If you want to create a new page, you can just create a new file ending in `.md` and start writing. You don't need to worry about including navigation headers, stylesheets, or other advanced website stuff, because Jekyll handles all of that for you.
 
+I plan on writing documentation for common maintenance tasks. 
+
 ## Who can make changes?
 
 Anyone with **edit permission** on this repository can make changes. They will need a GitHub account, and to have the rights granted by an admin.
