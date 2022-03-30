@@ -11,7 +11,7 @@ The original site was created with **WordPress**. WordPress manages the content,
 The [GitHub Pages](https://pages.github.com/) approach is a little different. It requires a bit more technical knowledge to maintain the content, but it comes with these benefits:
 
 - GitHub Pages is free to host for public repositories, significantly reducing cost.
-- The overall codebase is significantly less overwhelming then WordPress's and easier to maintain.
+- The overall codebase is significantly less overwhelming than WordPress's, and it's easier to maintain.
 - The history of the site is totally transparent (which is the nature of `git`)
 - Anyone can request to contribute (but the actual site can only be modified by contributors).
 - If the domain goes down, the content is still on GitHub. Someone can pick up the mantle by "forking" the site and making their own version.
