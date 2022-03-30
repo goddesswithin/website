@@ -6,6 +6,8 @@ Goddess Within is a boutique that celebrates the Divine Female through Art, Natu
 
 So please come to see us, and support the Divine Female in the World, in our community, and within yourself.
 
+This is another paragraph.
+
 You can review an example post [here]({{ site.url }}{% post_url 2022-03-26-example %}).
 
 <div>
