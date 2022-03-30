@@ -7,7 +7,7 @@ description: >-
 
 # URL settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://goddesswithin.github.io/website" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: /:categories/:title:output_ext
 
