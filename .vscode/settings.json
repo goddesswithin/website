@@ -1,0 +1,5 @@
+{
+    "livePreview.defaultPreviewPath": "_site/index.html",
+    "files.autoSave": "afterDelay",
+    "livePreview.autoRefreshPreview": "On Changes to Saved Files"
+}
