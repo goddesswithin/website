@@ -1,5 +1,9 @@
+<div style="display:flex;flex-direction:row;width:100%;justify-content:space-evenly" class="navlinks-container">
 {% for navlink in site.data.navlinks %}
+<div class="navlink">
 <a href="{{ navlink.url }}" title="{{ navlink.title }}">
-    <img style="align:none; max-width:150pt;" src="images/{{ navlink.image }}.jpeg" />
+    <img style="max-width:150pt;box-sizing:content-box;" src="images/{{ navlink.image }}.jpeg" />
 </a>
+</div>
 {% endfor %}
+</div>

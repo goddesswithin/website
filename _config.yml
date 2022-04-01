@@ -9,6 +9,8 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://goddesswithin.github.io/website" # the base hostname & protocol for your site, e.g. http://example.com
 
+theme: type-on-strap
+
 permalink: /:categories/:title:output_ext
 
 defaults:
@@ -16,7 +18,7 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
+      layout: "page"
 
 # Exclude some stuff from the actual website
 exclue:

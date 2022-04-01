@@ -4,7 +4,6 @@
 #
 # You will want to go to _data/events.yml. This page receives its data from there.
 
-layout: default
 title: Events
 ---
 
